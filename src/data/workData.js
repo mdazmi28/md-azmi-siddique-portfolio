@@ -2,22 +2,22 @@
 const workData = {
     "work_experience": [
         {
-            "designation": "Software Engineer",
-            "company_name": "ThoughtBridge Consortium",
-            "from": "March 2023",
+            "designation": "Junior Software Engineer",
+            "company_name": "FiNTECH HUB Ltd",
+            "from": "July 2024",
             "to": "Present"
         },
         {
-            "designation": "Frontend Developer",
-            "company_name": "TechSolutions Ltd.",
-            "from": "July 2022",
-            "to": "February 2023"
+            "designation": "Junior Software Engineer",
+            "company_name": "LeadSoft Bangladesh Limited",
+            "from": "Februart 2024",
+            "to": "June 2024"
         },
         {
-            "designation": "Junior Web Developer",
-            "company_name": "Freelance",
-            "from": "June 2020",
-            "to": "June 2022"
+            "designation": "Research and Development Engineer",
+            "company_name": "Shanghai Baud Data Communication Co., Ltd",
+            "from": "April 2023",
+            "to": "August 2023"
         }
     ]
 };
