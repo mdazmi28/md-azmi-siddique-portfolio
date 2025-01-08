@@ -3,10 +3,11 @@ import React from 'react';
 import HeroSection from '../components/HeroSection';
 import About from '../components/About';
 import Skills from '../components/Skills';
+import ContactMe from '../components/ContactMe';
 
 const StartPage = () => {
     return (
-        <div className='flex flex-col overflow-x-hidden'>
+        <div className='px-6 flex flex-col overflow-x-hidden'>
             <div id='home'>
                 <HeroSection />
             </div>
@@ -15,6 +16,9 @@ const StartPage = () => {
             </div>
             <div id='skills' className='pt-16'>
                 <Skills />
+            </div>
+            <div id='contact' className='pt-16'>
+                <ContactMe />
             </div>
 
         </div>

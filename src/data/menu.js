@@ -29,7 +29,7 @@ const menuData = {
       ],
       "cta": {
         "text": "Contact Me",
-        "link": "/get-started"
+        "link": "#contact"
       }
     }
   }

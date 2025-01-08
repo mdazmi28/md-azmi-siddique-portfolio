@@ -5,7 +5,7 @@ import { TypeAnimation } from 'react-type-animation';
 const HeroSection = () => {
     return (
         <>
-            <div className='scroll-smooth h-screen flex flex-col px-6 gap-5 md:flex-row'>
+            <div className='scroll-smooth h-screen flex flex-col gap-5 md:flex-row'>
                 {/* Left Section with Text */}
                 <div className='w-full md:w-1/2 text-center md:text-left flex flex-col justify-center order-2 md:order-1'>
                     <h1 className='text-5xl font-bold  mb-4'>
