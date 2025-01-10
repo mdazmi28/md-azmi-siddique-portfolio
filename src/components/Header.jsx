@@ -26,7 +26,7 @@ const Header = () => {
 
     const renderMenu = (menus) => {
         return menus.map((menu, index) => (
-            <div key={index} className="relative px-3 z-1">
+            <div key={index} className="relative group px-3 z-1">
                 <a
                     href={menu.link}
                     className="text-gray-300 hover:text-white px-2 py-1 block"
