@@ -2,22 +2,22 @@
 const educationData = {
     "work_experience": [
         {
-            "designation": "Software Engineer",
-            "company_name": "ThoughtBridge Consortium",
-            "from": "March 2023",
-            "to": "Present"
+            "designation": "North South University",
+            "company_name": "Bsc in Computer Science and Engineering",
+            "from": "2018",
+            "to": "2022"
         },
         {
-            "designation": "Frontend Developer",
-            "company_name": "TechSolutions Ltd.",
-            "from": "July 2022",
-            "to": "February 2023"
+            "designation": "Dhaka City College",
+            "company_name": "Higher Secondary Certificate",
+            "from": "2015",
+            "to": "2017"
         },
         {
-            "designation": "Junior Web Developer",
-            "company_name": "Freelance",
-            "from": "June 2020",
-            "to": "June 2022"
+            "designation": "Government Laboratory High School",
+            "company_name": "Secondary School Certificate",
+            "from": "2005",
+            "to": "2015"
         }
     ]
 };
