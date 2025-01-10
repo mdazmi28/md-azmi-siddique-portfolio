@@ -4,26 +4,26 @@ const certificationData = {
     "certificationData": [
         {
             "certificate_provider": "Coursera",
-            "link": "Bsc in Computer Science and Engineering",
+            "link": "https://www.coursera.org/account/accomplishments/verify/X9XUA3VAMA7Q",
             "certificate_name": "HTML and CSS in depth",
             "img":"/assets/images/certifications/meta-color.svg",
         },
         {
             "certificate_provider": "Coursera",
-            "link": "Bsc in Computer Science and Engineering",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/JMEVQ8Q5DE9K",
             "certificate_name": "Programming with JavaScript",
             "img":"/assets/images/certifications/meta-color.svg",
         },
         {
             "certificate_provider": "Coursera",
-            "link": "Bsc in Computer Science and Engineering",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/Z2U2D7MMFQF7",
             "certificate_name": "Foundations of User Experience (UX) Design",
             "img":"/assets/images/certifications/google-bg.png",
         },
         {
             "certificate_provider": "Coursera",
-            "link": "Bsc in Computer Science and Engineering",
-            "certificate_name": "Foundations of User Experience (UX) Design",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/MVCV4ERQDF2J",
+            "certificate_name": "Version Control",
             "img":"/assets/images/certifications/meta-color.svg",
         },
          
