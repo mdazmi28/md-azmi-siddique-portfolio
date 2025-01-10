@@ -20,7 +20,7 @@ const menuData = {
       },
       {
         "title": "Projects",
-        "link": "/portfolio"
+        "link": "#projects"
       }
     ],
     "cta": {
