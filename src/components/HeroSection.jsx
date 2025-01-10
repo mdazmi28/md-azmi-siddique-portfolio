@@ -35,12 +35,12 @@ const HeroSection = () => {
                     />
                     <div className="flex flex-row gap-4 items-center justify-center md:items-start md:justify-start">
 
-                        <div className='h-10 w-10'>
+                        <div className='h-10 w-10 md:h-16 md:w-16'>
                             <a href="https://github.com/mdazmi28/" target='_blank' rel='noopener noreferrer' className='cursor-pointer'>
                                 <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="Github" />
                             </a>
                         </div>
-                        <div className='h-10 w-10'>
+                        <div className='h-10 w-10 md:h-16 md:w-16'>
                             <a href="https://www.linkedin.com/in/mdazmi28/" target='_blank' rel='noopener noreferrer' className='cursor-pointer'>
                                 <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" />
                             </a>
