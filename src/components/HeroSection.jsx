@@ -41,9 +41,9 @@ const HeroSection = () => {
                 <div className='w-full md:w-1/2 flex justify-center items-center order-1 md:order-2'>
                     <div className=''>
                         <img
-                            src='/assets/images/my_img.jpg'
+                            src='/assets/images/my_img.png'
                             alt='Your Company Logo'
-                            className='shadow-xl object-cover'
+                            className='shadow-xl object-cover h-[400px] w-auto'
                         />
                     </div>
                 </div>
