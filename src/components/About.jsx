@@ -23,7 +23,8 @@ const About = () => {
                             return (
                                 <div key={index} className='flex flex-col gap-4' data-aos="zoom-in" data-aos-duration="1000">
                                     {/* Card Style with gap */}
-                                    <div className='bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 dark:text-black'>
+                                    <div className=' bg-white dark:bg-gray-800 
+                 text-gray-800 dark:text-gray-200  p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 '>
                                         <h2 className='text-xl font-semibold'>{data.company_name}</h2>
                                         <p className='text-lg'>{data.designation}</p>
                                         <p className='text-lg'>{data.from} - {data.to}</p>
@@ -41,7 +42,8 @@ const About = () => {
                             return (
                                 <div key={index} className='flex flex-col gap-4' data-aos="zoom-in" data-aos-duration="1000">
                                     {/* Card Style with gap */}
-                                    <div className='bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 dark:text-black'>
+                                    <div className=' bg-white dark:bg-gray-800 
+                 text-gray-800 dark:text-gray-200  p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 '>
                                         <h2 className='text-xl font-semibold'>{data.company_name}</h2>
                                         <p className='text-lg'>{data.designation}</p>
                                         <p className='text-lg'>{data.from} - {data.to}</p>
@@ -62,7 +64,8 @@ const About = () => {
                                 key={index}
                                 data-aos="zoom-in"
                                 data-aos-duration="1000"
-                                className="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 dark:text-black">
+                                className=" bg-white dark:bg-gray-800 
+                 text-gray-800 dark:text-gray-200  p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 mb-6 ">
 
                                 <a
                                     href={data.link}
