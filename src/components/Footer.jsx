@@ -3,8 +3,8 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col gap-4 px-6 items-center justify-center">
-      <div className='w-full flex justify-center items-center'>
+    <footer className="flex flex-col gap-4 px-6 items-center justify-center md:flex-row">
+      <div className='w-full flex justify-center items-center md:justify-start md:items-start'>
       <aside className='flex flex-col justify-center items-center'>
         <img
           src="assets/images/my-logo.png"
@@ -19,7 +19,7 @@ const Footer = () => {
       </aside>
       </div>
       <div className='w-full'>
-      <nav className='flex flex-col justify-center items-center'>
+      <nav className='flex flex-col justify-center items-center md:justify-start md:items-start'>
         <h6 className="footer-title">Social</h6>
         <div className="flex flex-row ">
           <a href="https://github.com/mdazmi28/" target='_blank'>
