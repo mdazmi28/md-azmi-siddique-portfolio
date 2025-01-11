@@ -3,6 +3,7 @@ import React, { useEffect } from 'react';
 import { workData } from '../data/workData'; // Ensure correct import path
 import { certificationData } from '@/data/certificationData';
 import { educationData } from '../data/educationData'; // Ensure correct import path
+import { ImLink } from "react-icons/im";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -74,7 +75,8 @@ const About = () => {
                                     className="absolute top-2 right-2 text-gray-400 hover:text-gray-600 transition-colors"
                                     title="View Certificate"
                                 >
-                                    <img src="/assets/images/certifications/link.png" alt="" className='h-5 w-5'/>
+                                    {/* <img src="/assets/images/certifications/link.png" alt="" className='h-5 w-5'/> */}
+                                    <ImLink className='h-5 w-5' />
                                 </a>
                                 {/* Render the image */}
                                 <img src={data.img} alt={data.certificate_name} className="w-16 h-16 mb-4" />

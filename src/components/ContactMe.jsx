@@ -3,7 +3,7 @@ import { IoIosSend } from "react-icons/io";
 
 const ContactMe = () => {
     return (
-        <div className='flex flex-col md:flex-row justify-center items-center'>
+        <div className='flex flex-col md:flex-row justify-center items-center pb-4'>
             <div className='flex justify-center items-center w-full md:w-1/2'>
                 {/* <img src='/assets/images/contact.jpeg' className='h-[600px] w-auto rounded'/> */}
 

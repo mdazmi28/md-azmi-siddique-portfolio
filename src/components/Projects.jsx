@@ -3,7 +3,9 @@ import { projectData } from '../data/projectData';
 
 const Projects = () => {
   return (
-    <div className="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+    <div>
+        <h1 className='text-4xl pb-4'>Projects</h1>
+        <div className="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       {projectData.map((project, index) => (
         <div
           key={index}
@@ -37,6 +39,7 @@ const Projects = () => {
           </div>
         </div>
       ))}
+    </div>
     </div>
   );
 };
