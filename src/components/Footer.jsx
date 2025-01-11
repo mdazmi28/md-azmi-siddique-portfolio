@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="footer bg-neutral text-neutral-content p-10">
+    <footer className="footer bg-neutral text-neutral-content p-10 flex flex-row">
       <aside className=''>
         <img
           src="assets/images/my-logo.png"
