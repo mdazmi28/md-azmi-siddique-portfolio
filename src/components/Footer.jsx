@@ -4,12 +4,12 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="flex flex-col gap-0 px-6 items-center justify-center">
-      <div className='w-1/2'>
-      <aside className=''>
+      <div className='w-full flex justify-center items-center'>
+      <aside className='flex flex-col justify-center items-center'>
         <img
           src="assets/images/my-logo.png"
 
-          className="h-10 w-auto"
+          className="h-10 w-auto "
         />
         <p>
           Md Azmi Siddique
@@ -18,8 +18,8 @@ const Footer = () => {
         </p>
       </aside>
       </div>
-      <div className='w-1/2'>
-      <nav>
+      <div className='w-full'>
+      <nav className='flex flex-col justify-center items-center'>
         <h6 className="footer-title">Social</h6>
         <div className="flex flex-row ">
           <a href="https://github.com/mdazmi28/" target='_blank'>
