@@ -59,7 +59,7 @@ const HeroSection = () => {
                         <img
                             src='/assets/images/my_img.png'
                             alt='Your Company Logo'
-                            className='shadow-xl object-cover mt-52 md:mt-0 h-32 md:h-[400px] w-auto'
+                            className='mt-52 md:mt-0 h-32 md:h-[400px] w-auto'
                         />
                     </div>
                 </div>
