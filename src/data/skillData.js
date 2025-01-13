@@ -48,7 +48,8 @@ const skillData = {
   ],
   "version_control": [
     { "name": "Git", "image": "https://cdn.simpleicons.org/git" },
-    { "name": "GitHub", "image": "https://cdn.simpleicons.org/github" }
+    { "name": "GitHub", "image": "https://cdn.simpleicons.org/github" },
+    { "name": "Bitbucket", "image": "https://cdn.simpleicons.org/bitbucket" }
   ],
   // "microsoft_office": [
   //   { "name": "MS Excel", "image": "/images/ms_excel.png" },
