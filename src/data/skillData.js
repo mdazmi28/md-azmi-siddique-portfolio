@@ -57,11 +57,12 @@ const skillData = {
   //   { "name": "MS PowerPoint", "image": "/images/ms_powerpoint.png" }
   // ],
   "tools": [
+    { "name": "Visual Studio Code", "image": "/assets/images/language/vscode.png" },
+    { "name": "Postman", "image": "https://cdn.simpleicons.org/postman" },
     { "name": "Adobe Illustrator", "image": "/assets/images/language/illustrator.png" },
     { "name": "Adobe Xd", "image": "/assets/images/language/xd.png" },
     { "name": "Figma", "image": "https://cdn.simpleicons.org/figma" },
     { "name": "Chatgpt", "image": "/assets/images/language/chatgpt.png" },
-    // { "name": "Balsamiq", "image": "/images/balsamiq.png" },
     { "name": "Trello", "image": "https://cdn.simpleicons.org/trello" },
     { "name": "Slack", "image": "https://cdn.simpleicons.org/slack" }
   ]
