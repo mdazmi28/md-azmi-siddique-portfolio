@@ -1,12 +1,15 @@
 const skillData = {
   "programming_languages": [
-    { "name": "JavaScript", "image": "https://cdn.simpleicons.org/javascript" },
-    { "name": "TypeScript", "image": "https://cdn.simpleicons.org/typescript" },
-    { "name": "Python", "image": "https://cdn.simpleicons.org/python" },
+    
     { "name": "C", "image": "https://cdn.simpleicons.org/c" },
     { "name": "C++", "image": "https://cdn.simpleicons.org/cplusplus" },
-    { "name": "Java", "image": "/assets/images/language/java.png" },
     { "name": "C#", "image": "/assets/images/language/c-sharp.png" },
+    { "name": "Python", "image": "https://cdn.simpleicons.org/python" },
+    { "name": "Java", "image": "/assets/images/language/java.png" },
+    { "name": "JavaScript", "image": "https://cdn.simpleicons.org/javascript" },
+    { "name": "TypeScript", "image": "https://cdn.simpleicons.org/typescript" },
+    
+    
   ],
   "front_end": [
     { "name": "HTML", "image": "https://cdn.simpleicons.org/html5" },
