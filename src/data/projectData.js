@@ -8,7 +8,7 @@ const projectData = [
     },
     {
       "name": "E-Commerce Landing Page",
-      "image": "/assets/images/e_com_web.png",
+      "image": "/assets/images/e_com_web.PNG",
       "description": "A full-stack e-commerce web app with user authentication, product listings, and a shopping cart.",
       "liveLink": "https://e-commerce-landing-page-ui.vercel.app/",
       "githubLink": "https://github.com/mdazmi28/E-Commerce-Landing-Page-UI"
