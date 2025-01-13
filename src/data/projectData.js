@@ -15,10 +15,17 @@ const projectData = [
     },
     {
       "name": "News Portal",
-      "image": "/assets/images/news_page.png",
+      "image": "/assets/images/news_page.PNG",
       "description": "A real-time news applicaiton webiste",
       "liveLink": "",
       "githubLink": "https://github.com/mdazmi28/Full_Stack_Blog_Web_App"
+    },
+    {
+      "name": "Gadget Store UI",
+      "image": "/assets/images/gadget_ui.PNG",
+      "description": "A gedget store to showcase the latest gadgets",
+      "liveLink": "https://gadget-store-ui.vercel.app/",
+      "githubLink": "https://github.com/mdazmi28/my-gadget-store"
     },
   ];
   
